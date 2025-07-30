@@ -1,14 +1,12 @@
 # Test Case for Shwapno Website
 
 # Manual Testing
-Manual Testing is a type of software testing where testers execute test cases manually without using any automated tools. It involves validating the functionality, usability, and performance of the software by interacting with it as an end user would.
+Manual Testing is a type of software testing where testers execute test cases manually without using any automated tools. It involves validating the functionality, usability, and performance of the software by interacting with it as an end user would. It is needed to simulate end-user behavior to identify bugs, ensure the application works as expected, and validate that all features meet the specified requirements.
 
 Website Link
-***(https://www.shwapno.com/)***
+***https://www.shwapno.com/***
 
-Manual Testing needs these to complete a project
-Test Cases
-Bug Report
+
 
 # Brief about the project website
 The Website Shwapno serves as a test environment for the e-commerce platform. It offers a range of features for testing, including Homepage, User Account, Product Search & Filtering, Product Page, Shopping Cart, Checkout Process, Logout. It allows testers to explore the platform's functionality, UI, and usability under different scenarios.
