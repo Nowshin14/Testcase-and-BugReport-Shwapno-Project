@@ -62,7 +62,7 @@ A test summary for manual testing is an essential part of the testing lifecycle.
 
 
 ## Bug Report
-Bug reports is a critical activity in manual testing, as it provides a structured way to document and communicate issues discovered during the testing process. The number of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 3 test cases failed. 
+Bug reports is a critical activity in manual testing, as it provides a structured way to document and communicate issues discovered during the testing process. The number of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 2 test cases failed. 
 
 ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-Shwapno-Project/blob/main/BugReport_Sl01.png)
 ![image alt](https://github.com/Nowshin14/Testcase-and-BugReport-Shwapno-Project/blob/main/BugReport_Sl02.png)
